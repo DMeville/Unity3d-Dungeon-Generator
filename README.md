@@ -1,4 +1,7 @@
 # Unity3d-Dungeon-Generator
+
+Edit: Nov 26th, 2017 - made a video showing the process on how to setup and create a new room and add it to the generator: https://youtu.be/Aagh25qg59w
+
 A procedural dungeon generator for Unity3d
 
 The code is provided as is (and is kinda gross), use it however you like.
